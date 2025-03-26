@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: aqua;
+  }
+h1{
+    font-size: 75px;
+}
+.syoukai{
+    font-size: 50px;
+} 
+.foodrank{
+    font-size: 60px;
+}
+h2{
+    font-size: 100px;
+    background-color: yellowgreen;
+}
+.first1{
+    font-size: 75px;
+}
+.syousai1{
+    font-size: 50px;
+}
+.ramen{
+    width: 800px;
+    height: 600px;
+}
+.second2{
+    font-size: 75px;
+}
+.syousai2{
+    font-size: 50px;
+}
+.maubou{
+    width: 800px;
+    height: 600px;
+}
+.third3{
+    font-size: 75px;
+}
+.syousai3{
+    font-size: 50px;
+}
+.gyudon{
+    width: 800px;
+    height: 600px;
+}
+li{
+    list-style: none;
+}
+.returndesu{
+    font-size: 25px;
+}
